@@ -8,15 +8,17 @@ The goal of this challenge was to analyize the standardized testing results from
 Overall Passing rate increased by .8%.
 
 Before:
-
+![District_analysis_Module](https://github.com/lgrander/School_District_Analysis/blob/main/District_analysis_Module.png)
 After:
-
+![District_analysis_challenge](https://github.com/lgrander/School_District_Analysis/blob/main/District_analysis_challenge.png)
 ### How is the school summary affected?
 Overall Passing rate decreased by .3%.
 
 Before:
-
+![Perschool_summary_before](https://github.com/lgrander/School_District_Analysis/blob/main/Perschool_summary_before.png)
 After:
+![Perschool_summary_after](https://github.com/lgrander/School_District_Analysis/blob/main/Perschool_summary_after.png)
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Thomas High School Rank was unchanged
 
